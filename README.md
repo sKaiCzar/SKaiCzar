@@ -8,7 +8,7 @@
 - Experienced in **C** and **Java**
 - Worked in **JavaScript and some frameworks**
 - Been Coding since 3 years and in *love* with it.
-- A **PURPLE TEAM*
+- A **PURPLE TEAM**
 - Working on my **PYTHON** parts
 
 
