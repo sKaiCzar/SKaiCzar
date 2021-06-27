@@ -13,3 +13,17 @@
 - Working on my **PYTHON** parts
 
 
+# Stats :
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sKaiCzar&show_icons=true&theme=radical&count_private=true)</br>
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sKaiCzar&theme=radical&count_private=true)</br>
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sKaiCzar&theme=radical&count_private=true" alt="Kevin-Aaaquil" /></p>
+  
+![Profile views](https://komarev.com/ghpvc/?username=sKaiCzar&color=green)
+
+
