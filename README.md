@@ -6,12 +6,10 @@
 --->
 - A Student 
 - Experienced in **C** and **Java**
-- Worked in **JavaScript and some frameworks**
-- Moving into **Go and Rust**
+- Worked in **JavaScript**
+- Moving into **Go**
 - Been Coding since 3 years and in *love* with it.
 - A **PURPLE TEAM**
-- Working on my **PYTHON** parts
-
 
 # Stats :
 
