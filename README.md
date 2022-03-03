@@ -4,11 +4,8 @@
 <!--
 **sKaiCzar/SKaiCzar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --->
-- A Student 
-- Experienced in **C** and **Java**
-- Worked in **JavaScript**
-- Moving into **Go**
-- A **PURPLE TEAM**
+A polyglot programmer.
+
 
 # Stats :
 
